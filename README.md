@@ -1,0 +1,1 @@
+# MR-Beast-store-scraper
